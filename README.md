@@ -1,5 +1,4 @@
 # notesFront
-# Aplicación CRUD de Notas
 
 ## Descripción
 Esta aplicación permite gestionar notas de manera sencilla. Se pueden crear, leer, editar y eliminar notas. La aplicación se conecta a una base de datos externa mediante una API.
